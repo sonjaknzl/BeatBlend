@@ -7,7 +7,7 @@ Created in February 2024 over the timespan of one week.
 
 ## About
 
-BeatBlend is a small virtual DJ setup for fun and experimentation, aiming to familiarize users with DJ equipment and techniques. In this virtual DJ setup, users can choose from three license-free tracks for an enjoyable and diverse mixing experience. Information about each track, including its name, artist, BPM, and duration, is displayed on a virtual screen at the center of the interface. Users can select tracks by dragging and dropping them to either the left or right side of the controller. Once selected, the track is loaded and shown on the respective side.
+BeatBlend is a small virtual DJ setup for fun and experimentation, aiming to familiarize users with DJ equipment and techniques. In this virtual DJ setup, users can choose from three license-free tracks for an enjoyable and diverse mixing experience. Information about each track, including its name, artist, BPM, and duration, is displayed on a virtual screen at the center of the interface. Users can select tracks by dragging and dropping them to either the left or right side of the controller.
 
 As features for experimentation, controls for adjusting the high, mid, and low frequencies of the tracks within the app are integrated. Moreover, users can adjust the BPM using a vertical slider. The interface also includes typical playback controls such as play, pause, and stop buttons. Additionally, a panel located above the controls displays information about the track's playback duration, name, artist, and current BPM.
 
