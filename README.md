@@ -14,3 +14,5 @@ As features for experimentation, controls for adjusting the high, mid, and low f
 
 Clone this repository and open the BeatBlend.swiftpm on your iPad or Macbook with the Swift Playgrounds app.
 
+Happy experimenting!
+
